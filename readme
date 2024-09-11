@@ -28,5 +28,6 @@ Install requirement
 Project sudah siap dijalankan 
 
 ```bash
+  cd repo
   py foto_single.py
 ``` 
